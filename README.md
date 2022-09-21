@@ -1,2 +1,2 @@
 # demo
-this is list file
+this is instruction file
